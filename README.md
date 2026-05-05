@@ -9,6 +9,14 @@ These files describe service behavior, API contracts, and implementation tasks.
 - `openspec/changes/user-authentication-service-v1/specs/spec.md`
 - `openspec/changes/user-authentication-service-v1/design.md`
 - `openspec/changes/user-authentication-service-v1/tasks.md`
+- `openspec/changes/user-authentication-service-v2/proposal.md`
+- `openspec/changes/user-authentication-service-v2/specs/spec.md`
+- `openspec/changes/user-authentication-service-v2/design.md`
+- `openspec/changes/user-authentication-service-v2/tasks.md`
+- `.specify/memory/constitution.md`
+- `specs/user-authentication-service/spec.md`
+- `specs/user-authentication-service/plan.md`
+- `specs/user-authentication-service/tasks.md`
 
 ## Next steps
 - Review `proposal.md`, `specs/spec.md`, and `tasks.md` under `openspec/changes/`.
